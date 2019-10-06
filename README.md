@@ -1,4 +1,4 @@
 # 30-Days-Of-SwiftUI
 Challenge completed 
 
-![Optional Text](../master/30.mp4)
+![Optional Text](../developer/30.mp4)
